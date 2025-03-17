@@ -1,4 +1,4 @@
-Challenge de amigo secreto 
+CHALLENGE DE AMIGO SECRETO 
 
 Este proyecto permite realizar un sorteo de "Amigo Secreto" de manera sencilla y divertida. Los usuarios pueden ingresar sus nombres a través de un enlace externo y el sistema se encargará de realizar el sorteo automáticamente.
 
